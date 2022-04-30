@@ -15,5 +15,6 @@ LCD arka kısmında 1 entegre birkaç tane kondansatör lehimlenip daha fazla pa
 LCD pinlerini switchlere atayıp Register ayarları yazılımsız deneme 
 ![123](https://user-images.githubusercontent.com/69425525/166091292-c71cd52c-ccf9-4a39-a88b-9bc93c8fdc8b.jpg)
 
+Projenin son hali
 Hatıralar :) 
 ![WhatsApp Image 2021-12-22 at 5 16 13 PM](https://user-images.githubusercontent.com/69425525/165668760-641ff9ae-30ee-45bb-a950-4b0712b26c18.jpeg)
